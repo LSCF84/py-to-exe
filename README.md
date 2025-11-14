@@ -27,3 +27,28 @@ Este repositorio proporciona un script automatizado y documentación completa pa
 🔧 Personalizable: Fácil adaptación para otros proyectos
 
 🛡️ Build Limpio: Entornos virtuales recomendados para builds limpios
+
+## 🚀 Instalación Rápida
+
+### Prerrequisitos
+- Python 3.8 o superior
+- Windows 10/11
+- Conexión a internet (para análisis con IA)
+- Permisos de administrador (recomendado)
+---
+
+## 👨‍💻 Autor
+
+**LSCF**
+
+## ⚙️ Instalación y Dependencias
+
+Para ejecutar este proyecto, necesitas Python 3.x
+
+## 🤝 ¿Quieres contribuir?
+
+¡Claro! Abre un Issue o un Pull Request. Usa la plantilla al crear un Issue.
+
+---
+
+⭐️ Si te sirvió, ¡dale una estrella al repositorio!
