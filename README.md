@@ -4,12 +4,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5%2B-orange)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+---
 
-
-</div>
 🌟 Descripción del Proyecto
 
 Este repositorio proporciona un script automatizado y documentación completa para generar ejecutables de aplicaciones Python usando PyInstaller. Especialmente diseñado para crear XXXXX.exe a partir del script XXXXX.py con configuraciones optimizadas.
