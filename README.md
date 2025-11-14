@@ -1,11 +1,13 @@
 <div align="center">
+   
+# Script automatizado para generar ejecutables con PyInstaller
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/PyInstaller-6.0%252B-green
-https://img.shields.io/badge/Platform-Windows%252010%252B-success
-https://img.shields.io/badge/License-MIT-green
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5%2B-orange)](https://openai.com/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Script automatizado para generar ejecutables con PyInstaller
+
 
 </div>
 🌟 Descripción del Proyecto
