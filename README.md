@@ -1,20 +1,27 @@
-Guía .py a .exe con PyInstaller
+<div align="center">
 
-# 🐍 PyInstaller Guide: Convierte Python a EXE en Windows
+https://img.shields.io/badge/Python-3.8%252B-blue
+https://img.shields.io/badge/PyInstaller-6.0%252B-green
+https://img.shields.io/badge/Platform-Windows%252010%252B-success
+https://img.shields.io/badge/License-MIT-green
 
-Este repositorio contiene una guía sencilla y completa para transformar cualquier script de Python (`.py`) en un archivo ejecutable de Windows (`.exe`) utilizando la herramienta **PyInstaller** desde la Terminal de Windows (CMD o PowerShell).
+Script automatizado para generar ejecutables con PyInstaller
 
-## 🚀 1. Requisitos Previos
+</div>
+🌟 Descripción del Proyecto
 
-Antes de comenzar, asegúrate de tener lo siguiente instalado y configurado en tu sistema:
+Este repositorio proporciona un script automatizado y documentación completa para generar ejecutables de aplicaciones Python usando PyInstaller. Especialmente diseñado para crear XXXXX.exe a partir del script XXXXX.py con configuraciones optimizadas.
 
-* **Python:** Debe estar instalado (versión 3.6 o superior es recomendada).
-* **PIP:** El gestor de paquetes de Python (viene incluido con la mayoría de las instalaciones modernas de Python).
-* **Script de Python:** El archivo `.py` que deseas convertir.
+✨ Características Principales
 
-## 📥 2. Instalación de PyInstaller
+🚀 Generación OneFile: Crea un único ejecutable portable
 
-PyInstaller es una herramienta externa que debes instalar globalmente en tu entorno Python. Abre tu terminal y ejecuta el siguiente comando:
+🪟 Modo Windowed: Aplicaciones sin consola (GUI)
 
-```bash
-pip install pyinstaller
+⚡ Configuración Optimizada: Parámetros preconfigurados para máximo rendimiento
+
+📦 Gestión de Dependencias: Detección automática de librerías
+
+🔧 Personalizable: Fácil adaptación para otros proyectos
+
+🛡️ Build Limpio: Entornos virtuales recomendados para builds limpios
