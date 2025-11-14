@@ -33,8 +33,8 @@ Este repositorio proporciona un script automatizado y documentación completa pa
 ### Prerrequisitos
 - Python 3.8 o superior
 - Windows 10/11
-- Conexión a internet (para análisis con IA)
 - Permisos de administrador (recomendado)
+- Terminal o Powershell
 ---
 
 ## 👨‍💻 Autor
