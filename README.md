@@ -1,10 +1,12 @@
 <div align="center">
    
-# Script automatizado para generar ejecutables con PyInstaller
+# ⚙️ Script automatizado para generar ejecutables con PyInstaller
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+</div>
 
 ---
 
