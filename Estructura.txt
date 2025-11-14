@@ -1,0 +1,9 @@
+XXXXX-Builder/
+├── 📄 XXXXX.py              # Script principal de la aplicación
+├── 🛠️ build_spec.py           # Script de construcción automatizado
+├── 📋 requirements.txt        # Dependencias del proyecto
+├── 🎯 icon.ico               # Icono de la aplicación (opcional)
+├── 📁 assets/                # Recursos adicionales
+├── 📁 build/                 # Directorio temporal de construcción
+├── 📁 dist/                  # Ejecutable final generado
+└── 📄 XXXXX.spec          # Archivo de especificación de PyInstaller
